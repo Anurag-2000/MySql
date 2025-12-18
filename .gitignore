@@ -1,0 +1,40 @@
+# OS / Editor files
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+.idea/
+.vscode/
+
+# Logs
+*.log
+
+# Environment variables / secrets
+.env
+.env.*
+
+# Build / output directories
+dist/
+build/
+out/
+target/
+
+# Dependency folders (common)
+node_modules/
+vendor/
+
+# Temporary files
+tmp/
+temp/
+*.tmp
+*.bak
+
+# Archives
+*.zip
+*.tar.gz
+*.rar
+
+#Misc
+*.pdf
+*.mp4
+*.jpg
